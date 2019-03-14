@@ -1,5 +1,5 @@
 # ha
-Home Assistant Setup
+My Home Assistant Setup using Lovelace
 
 Following components are used:
 * Philips Hue
